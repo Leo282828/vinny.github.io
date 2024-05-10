@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+</head>
+<body>
+<script>
+window.location.href = "https://t.me/allinonereborn";
+</script>
+</html>
+<noscript>
+</noscript>
 #EXTM3U
 #EXTINF:0 type="video" channelId="-1" group="Sports", Sports18 1 HD (1080p)
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_98838_eng=98800-video=2293600.m3u8
