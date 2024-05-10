@@ -11,8 +11,6 @@ window.location.href = "https://t.me/allinonereborn";
 #EXTM3U
 #EXTINF:0 type="video" channelId="-1" group="Sports", Sports18 1 HD (1080p)
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_98838_eng=98800-video=2293600.m3u8
-#EXTINF:0 type="video" channelId="-1" name="Star Sports 1 HD 3" group="Sports", SS 1
-http://152.89.62.76:8880/AAGM006/534533453/55273
 #EXTINF:0 type="video" channelId="-1" group="Sports", SELECT 1
 http://watchindia.net:8880/live/69354/82115/2292.ts
 #EXTINF:0 type="video" channelId="-1" name="Star Sports Select 2 HD" group="Sports", SELECT 2
